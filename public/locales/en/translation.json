@@ -1,0 +1,7 @@
+{
+  "greeting": "Hello, Welcome!",
+  "description": {
+    "line1": "This is a Project by <1>{{name}}</1>",
+    "line2": "This is an Internationalisation Example"
+  }
+}
